@@ -6,7 +6,7 @@ on:
       url:
         description: "The URL to scrape for m3u8 links"
         required: true
-        default: "https://news.abplive.com/live-tv"
+        default: "https://ritsatv.ru/movie-id700809-eurodance-90-hd"
 
 jobs:
   scrape:
